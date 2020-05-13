@@ -1,1 +1,6 @@
 all about me.
+this is a file all about me.
+i am a good person. 
+more line. 
+
+more more line.
